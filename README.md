@@ -1,3 +1,3 @@
 # arti_art
 
-A project to everyday art appreciation
+A project for everyday art appreciation
